@@ -3,7 +3,6 @@ import json
 import re
 import datetime
 
-
 TITLE_REGEX = r"\[(?P<date>\d+ \w+ \d{4})\] (?P<id>ELA-\d+-\d+) (?P<package>[\w\-\.]+) - (?P<type>[\w ]+)"
 CVE_REGEX = r"CVE-\d{4}-\d{4,7}"
 DETAILS_REGEX = r"\[(?P<codename>\w+)\] - (?P<package>[\w\-\.]+) (?P<version>(?:(?:[0-9]{1,9}):)?(?:[0-9][0-9a-z\.+~-]*)(?:(?:-[0-0a-z\.+~]+))?)"
