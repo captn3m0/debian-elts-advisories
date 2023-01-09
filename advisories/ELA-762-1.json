@@ -2,6 +2,21 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:8",
+                "name": "grub2",
+                "purl": "pkg:deb/debian/libjettison-java?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "fixed": "2.02~beta2-22+deb8u2"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:9",
                 "name": "libjettison-java",
                 "purl": "pkg:deb/debian/libjettison-java?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
