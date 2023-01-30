@@ -1,0 +1,42 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "ruby-rack",
+                "purl": "pkg:deb/debian/ruby-rack?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "fixed": "1.6.4-4+deb9u4"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-785-1",
+    "modified": "2023-01-31T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-785-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-44570"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-44571"
+        }
+    ],
+    "related": [
+        "CVE-2022-44570",
+        "CVE-2022-44571"
+    ]
+}
