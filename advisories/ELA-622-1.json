@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "0.103.6+dfsg-0+deb8u1"
                     }
                 ],

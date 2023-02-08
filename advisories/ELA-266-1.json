@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "0.92.25debian1+deb8u1"
                     }
                 ],

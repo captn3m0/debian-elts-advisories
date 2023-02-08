@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "7u221-2.6.18-1~deb7u1"
                     }
                 ],

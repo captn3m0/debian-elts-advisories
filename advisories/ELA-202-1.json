@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "2.26.1-1+deb7u10"
                     }
                 ],
@@ -23,6 +26,9 @@
             },
             "ranges": {
                 "events": [
+                    {
+                        "introduced": "0"
+                    },
                     {
                         "fixed": "2.26.1-1+deb7u9"
                     }

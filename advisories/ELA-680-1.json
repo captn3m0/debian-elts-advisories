@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "3.20220510.1~deb8u1"
                     }
                 ],
@@ -23,6 +26,9 @@
             },
             "ranges": {
                 "events": [
+                    {
+                        "introduced": "0"
+                    },
                     {
                         "fixed": "3.20220510.1~deb9u1"
                     }

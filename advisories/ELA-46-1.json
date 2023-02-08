@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "2.8.0+dfsg1-7+wheezy13"
                     }
                 ],

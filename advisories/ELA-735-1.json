@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "7.0.56-3+really7.0.109-1+deb8u1"
                     }
                 ],

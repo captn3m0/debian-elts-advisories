@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "7.26.0-1+wheezy25+deb7u3"
                     }
                 ],

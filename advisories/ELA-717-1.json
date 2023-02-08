@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "1.1.0~git20140921.1.440916e+dfsg1-13+deb9u5"
                     }
                 ],

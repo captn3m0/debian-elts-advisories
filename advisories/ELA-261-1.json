@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "4:4.8.6+git64-g5dc8b2b+dfsg-3+deb8u3"
                     }
                 ],

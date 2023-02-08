@@ -9,6 +9,9 @@
             "ranges": {
                 "events": [
                     {
+                        "introduced": "0"
+                    },
+                    {
                         "fixed": "1.12.1+g01b65bf-4+deb8u6~deb7u18"
                     }
                 ],
