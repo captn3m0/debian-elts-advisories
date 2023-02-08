@@ -53,6 +53,9 @@ def get_osv():
                                 "type": "ECOSYSTEM",
                                 "events": [
                                     {
+                                        "introduced": "0"
+                                    },
+                                    {
                                         "fixed": r["version"],
                                     }
                                 ],
