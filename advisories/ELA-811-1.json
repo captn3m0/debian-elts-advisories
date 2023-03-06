@@ -31,6 +31,14 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-47664"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-47665"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-24751"
         },
         {
@@ -63,6 +71,8 @@
         }
     ],
     "related": [
+        "CVE-2022-47664",
+        "CVE-2022-47665",
         "CVE-2023-24751",
         "CVE-2023-24752",
         "CVE-2023-24754",
