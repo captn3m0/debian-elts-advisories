@@ -4,7 +4,7 @@ on:
   push:
   schedule:
     # Once an hour:35
-    - cron: '35 * * * *'
+    - cron: '35 */6 * * *'
 jobs:
   update:
     name: Update data
