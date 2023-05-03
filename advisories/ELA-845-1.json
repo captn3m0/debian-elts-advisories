@@ -131,6 +131,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-1990"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-1998"
         },
         {
@@ -200,6 +204,7 @@
         "CVE-2023-1859",
         "CVE-2023-1872",
         "CVE-2023-1989",
+        "CVE-2023-1990",
         "CVE-2023-1998",
         "CVE-2023-2162",
         "CVE-2023-2194",
