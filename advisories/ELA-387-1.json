@@ -120,6 +120,10 @@
         {
             "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-20246"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-20243"
         }
     ],
     "related": [
@@ -145,6 +149,7 @@
         "CVE-2021-20176",
         "CVE-2021-20241",
         "CVE-2021-20244",
-        "CVE-2021-20246"
+        "CVE-2021-20246",
+        "CVE-2021-20243"
     ]
 }
