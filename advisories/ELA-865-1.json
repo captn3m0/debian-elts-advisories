@@ -49,6 +49,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-12670"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2018-10804"
         },
         {
@@ -57,7 +61,7 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-3254"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-32545"
         },
         {
             "type": "ADVISORY",
@@ -69,9 +73,10 @@
         }
     ],
     "related": [
+        "CVE-2017-12670",
         "CVE-2018-10804",
         "CVE-2021-20309",
-        "CVE-2022-3254",
+        "CVE-2022-32545",
         "CVE-2022-32546",
         "CVE-2022-32547"
     ]
