@@ -2,9 +2,9 @@
     "affected": [
         {
             "package": {
-                "ecosystem": "Debian:9",
-                "name": "php7.0",
-                "purl": "pkg:deb/debian/php7.0?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+                "ecosystem": "Debian:8",
+                "name": "glibc",
+                "purl": "pkg:deb/debian/glibc?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
             "ranges": {
                 "events": [
@@ -12,7 +12,7 @@
                         "introduced": "0"
                     },
                     {
-                        "fixed": "7.0.33-0+deb9u15"
+                        "fixed": "2.19-18+deb8u12"
                     }
                 ],
                 "type": "ECOSYSTEM"
@@ -22,19 +22,19 @@
     "database_specific": {
         "type": "security update"
     },
-    "id": "ELA-873-1",
+    "id": "ELA-874-1",
     "modified": "2023-06-20T00:00:00Z",
     "references": [
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-873-1"
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-874-1"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-3247"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2015-20109"
         }
     ],
     "related": [
-        "CVE-2023-3247"
+        "CVE-2015-20109"
     ]
 }
