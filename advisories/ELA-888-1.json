@@ -3,6 +3,42 @@
         {
             "package": {
                 "ecosystem": "Debian:8",
+                "name": "c-ares",
+                "purl": "pkg:deb/debian/yajl?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.10.0-2+deb8u6"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "c-ares",
+                "purl": "pkg:deb/debian/yajl?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.12.0-1+deb9u5"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:8",
                 "name": "yajl",
                 "purl": "pkg:deb/debian/yajl?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
