@@ -2,24 +2,6 @@
     "affected": [
         {
             "package": {
-                "ecosystem": "Debian:9",
-                "name": "phpseclib",
-                "purl": "pkg:deb/debian/iperf3?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
-            },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "1.0.19-1~deb9u1"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
-        },
-        {
-            "package": {
                 "ecosystem": "Debian:8",
                 "name": "iperf3",
                 "purl": "pkg:deb/debian/iperf3?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
