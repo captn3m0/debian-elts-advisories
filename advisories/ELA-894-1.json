@@ -32,9 +32,14 @@
         {
             "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-24439"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-40267"
         }
     ],
     "related": [
-        "CVE-2022-24439"
+        "CVE-2022-24439",
+        "CVE-2023-40267"
     ]
 }
