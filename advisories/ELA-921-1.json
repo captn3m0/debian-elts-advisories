@@ -1,0 +1,75 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "unrar-nonfree",
+                "purl": "pkg:deb/debian/unrar-nonfree?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1:5.6.6-1+deb9u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-921-1",
+    "modified": "2023-08-16T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-921-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-12938"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-12940"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-12941"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-12942"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-20006"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2018-25018"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-30333"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-48579"
+        }
+    ],
+    "related": [
+        "CVE-2017-12938",
+        "CVE-2017-12940",
+        "CVE-2017-12941",
+        "CVE-2017-12942",
+        "CVE-2017-20006",
+        "CVE-2018-25018",
+        "CVE-2022-30333",
+        "CVE-2022-48579"
+    ]
+}
