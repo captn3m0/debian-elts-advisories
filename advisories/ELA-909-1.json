@@ -73,11 +73,11 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-38288"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-40745"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-38289"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-41175"
         }
     ],
     "related": [
@@ -87,7 +87,7 @@
         "CVE-2023-25433",
         "CVE-2023-26965",
         "CVE-2023-26966",
-        "CVE-2023-38288",
-        "CVE-2023-38289"
+        "CVE-2023-40745",
+        "CVE-2023-41175"
     ]
 }
