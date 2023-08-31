@@ -3,6 +3,24 @@
         {
             "package": {
                 "ecosystem": "Debian:9",
+                "name": "gst-plugins-ugly1.0",
+                "purl": "pkg:deb/debian/flask?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.10.4-1+deb9u2"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
                 "name": "flask",
                 "purl": "pkg:deb/debian/flask?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
