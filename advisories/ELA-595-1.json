@@ -35,11 +35,16 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-24917"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-24919"
         }
     ],
     "related": [
         "CVE-2022-24349",
+        "CVE-2022-24917",
         "CVE-2022-24919"
     ]
 }
