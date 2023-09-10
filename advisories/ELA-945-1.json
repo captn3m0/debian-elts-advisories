@@ -51,6 +51,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29454"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29455"
         },
         {
@@ -68,6 +72,7 @@
         "CVE-2022-43515",
         "CVE-2023-29450",
         "CVE-2023-29451",
+        "CVE-2023-29454",
         "CVE-2023-29455",
         "CVE-2023-29456",
         "CVE-2023-29457"
