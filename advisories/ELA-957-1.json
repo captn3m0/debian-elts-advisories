@@ -1,0 +1,80 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:8",
+                "name": "zabbix",
+                "purl": "pkg:deb/debian/zabbix?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1:2.2.23+dfsg-0+deb8u5"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-957-1",
+    "modified": "2023-09-23T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-957-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2013-7484"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2019-17382"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-43515"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29450"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29451"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29454"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29455"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29456"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-29457"
+        }
+    ],
+    "related": [
+        "CVE-2013-7484",
+        "CVE-2019-17382",
+        "CVE-2022-43515",
+        "CVE-2023-29450",
+        "CVE-2023-29451",
+        "CVE-2023-29454",
+        "CVE-2023-29455",
+        "CVE-2023-29456",
+        "CVE-2023-29457"
+    ]
+}
