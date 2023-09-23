@@ -1,0 +1,58 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:8",
+                "name": "libssh2",
+                "purl": "pkg:deb/debian/libssh2?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.4.3-4.1+deb8u7"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "libssh2",
+                "purl": "pkg:deb/debian/libssh2?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.7.0-1+deb9u3"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-956-1",
+    "modified": "2023-09-23T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-956-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-22218"
+        }
+    ],
+    "related": [
+        "CVE-2020-22218"
+    ]
+}
