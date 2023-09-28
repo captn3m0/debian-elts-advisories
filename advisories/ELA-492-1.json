@@ -31,6 +31,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-18768"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-19131"
         },
         {
@@ -39,6 +43,7 @@
         }
     ],
     "related": [
+        "CVE-2020-18768",
         "CVE-2020-19131",
         "CVE-2020-19144"
     ]
