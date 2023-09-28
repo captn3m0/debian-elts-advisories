@@ -61,6 +61,26 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-19185"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-19186"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-19187"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-19188"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-19190"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-29458"
         }
     ],
@@ -68,6 +88,11 @@
         "CVE-2018-19211",
         "CVE-2019-17594",
         "CVE-2019-17595",
+        "CVE-2020-19185",
+        "CVE-2020-19186",
+        "CVE-2020-19187",
+        "CVE-2020-19188",
+        "CVE-2020-19190",
         "CVE-2022-29458"
     ]
 }
