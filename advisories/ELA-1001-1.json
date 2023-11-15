@@ -1,0 +1,55 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "postgresql-9.6",
+                "purl": "pkg:deb/debian/postgresql-9.6?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "9.6.24-0+deb9u5"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1001-1",
+    "modified": "2023-11-16T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1001-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-5868"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-5869"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-5870"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-39417"
+        }
+    ],
+    "related": [
+        "CVE-2023-5868",
+        "CVE-2023-5869",
+        "CVE-2023-5870",
+        "CVE-2023-39417"
+    ]
+}
