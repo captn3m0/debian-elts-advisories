@@ -35,10 +35,6 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-4856"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-48560"
         },
         {
@@ -60,7 +56,6 @@
     ],
     "related": [
         "CVE-2021-3177",
-        "CVE-2022-4856",
         "CVE-2022-48560",
         "CVE-2022-48564",
         "CVE-2022-48565",
