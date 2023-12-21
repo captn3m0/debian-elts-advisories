@@ -53,11 +53,16 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-20592"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-20593"
         }
     ],
     "related": [
         "CVE-2019-9836",
+        "CVE-2023-20592",
         "CVE-2023-20593"
     ]
 }
