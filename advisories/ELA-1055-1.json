@@ -1,0 +1,45 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:8",
+                "name": "openssh",
+                "purl": "pkg:deb/debian/openssh?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1:6.7p1-5+deb8u10"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1055-1",
+    "modified": "2024-03-11T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1055-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-41617"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-51385"
+        }
+    ],
+    "related": [
+        "CVE-2021-41617",
+        "CVE-2023-51385"
+    ]
+}
