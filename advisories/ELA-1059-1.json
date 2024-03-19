@@ -49,11 +49,11 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-22817"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-23437"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-23437"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-22817"
         },
         {
             "type": "ADVISORY",
@@ -65,8 +65,8 @@
         }
     ],
     "related": [
+        "CVE-2021-23437",
         "CVE-2022-22817",
-        "CVE-2023-23437",
         "CVE-2023-44271",
         "CVE-2023-50447"
     ]
