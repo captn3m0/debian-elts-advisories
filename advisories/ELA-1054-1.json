@@ -49,6 +49,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-4421"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-5388"
         },
         {
@@ -57,6 +61,7 @@
         }
     ],
     "related": [
+        "CVE-2023-4421",
         "CVE-2023-5388",
         "CVE-2024-0743"
     ]
