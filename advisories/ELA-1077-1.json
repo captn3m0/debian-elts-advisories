@@ -1,0 +1,40 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:8",
+                "name": "tomcat8",
+                "purl": "pkg:deb/debian/tomcat8?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "8.0.14-1+deb8u28"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1077-1",
+    "modified": "2024-04-26T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1077-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-46589"
+        }
+    ],
+    "related": [
+        "CVE-2023-46589"
+    ]
+}
