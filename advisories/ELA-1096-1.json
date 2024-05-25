@@ -3,6 +3,60 @@
         {
             "package": {
                 "ecosystem": "Debian:9",
+                "name": "emacs25",
+                "purl": "pkg:deb/debian/composer?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "25.1+1-4+deb9u4"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:8",
+                "name": "emacs24",
+                "purl": "pkg:deb/debian/composer?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "24.4+1-5+deb8u4"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "emacs24",
+                "purl": "pkg:deb/debian/composer?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "24.5+1-11+deb9u4"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
                 "name": "composer",
                 "purl": "pkg:deb/debian/composer?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
