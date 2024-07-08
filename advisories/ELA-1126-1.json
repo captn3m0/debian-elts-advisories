@@ -3,6 +3,60 @@
         {
             "package": {
                 "ecosystem": "Debian:8",
+                "name": "dns-root-data",
+                "purl": "pkg:deb/debian/exim4?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2024041801~deb8u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "dns-root-data",
+                "purl": "pkg:deb/debian/exim4?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2024041801~deb9u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "dns-root-data",
+                "purl": "pkg:deb/debian/exim4?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2024041801~deb10u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:8",
                 "name": "exim4",
                 "purl": "pkg:deb/debian/exim4?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
