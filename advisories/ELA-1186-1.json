@@ -1,0 +1,63 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "cups-filters",
+                "purl": "pkg:deb/debian/cups-filters?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.11.6-3+deb9u3"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "cups-filters",
+                "purl": "pkg:deb/debian/cups-filters?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "1.21.6-5+deb10u2"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1186-1",
+    "modified": "2024-09-29T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1186-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-47076"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-47176"
+        }
+    ],
+    "related": [
+        "CVE-2024-47076",
+        "CVE-2024-47176"
+    ]
+}
