@@ -61,7 +61,7 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-38573"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-39573"
         },
         {
             "type": "ADVISORY",
@@ -76,7 +76,7 @@
         "CVE-2024-36387",
         "CVE-2024-38476",
         "CVE-2024-38477",
-        "CVE-2024-38573",
+        "CVE-2024-39573",
         "CVE-2024-39884",
         "CVE-2024-40725"
     ]
