@@ -3,6 +3,24 @@
         {
             "package": {
                 "ecosystem": "Debian:10",
+                "name": "context",
+                "purl": "pkg:deb/debian/libheif?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2018.04.04.20181118-1+deb10u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
                 "name": "libheif",
                 "purl": "pkg:deb/debian/libheif?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
