@@ -2,6 +2,24 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:10",
+                "name": "ruby2.5",
+                "purl": "pkg:deb/debian/dcmtk?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.5.5-3+deb10u9"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:9",
                 "name": "dcmtk",
                 "purl": "pkg:deb/debian/dcmtk?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
