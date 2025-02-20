@@ -57,6 +57,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-26137"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-43804"
         },
         {
@@ -67,6 +71,7 @@
     "related": [
         "CVE-2018-20060",
         "CVE-2018-25091",
+        "CVE-2020-26137",
         "CVE-2023-43804",
         "CVE-2023-45803"
     ]
