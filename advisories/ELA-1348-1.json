@@ -39,10 +39,6 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-5535"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-5642"
         },
         {
@@ -69,7 +65,6 @@
     "related": [
         "CVE-2023-27043",
         "CVE-2024-0397",
-        "CVE-2024-5535",
         "CVE-2024-5642",
         "CVE-2024-6232",
         "CVE-2024-6923",
