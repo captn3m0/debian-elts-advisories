@@ -39,6 +39,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-41123"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-41946"
         },
         {
@@ -53,6 +57,7 @@
     "related": [
         "CVE-2024-35176",
         "CVE-2024-39908",
+        "CVE-2024-41123",
         "CVE-2024-41946",
         "CVE-2024-43398",
         "CVE-2024-49761"
