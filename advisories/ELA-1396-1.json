@@ -1,0 +1,81 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:8",
+                "name": "jinja2",
+                "purl": "pkg:deb/debian/jinja2?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.7.3-1+deb8u2"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "jinja2",
+                "purl": "pkg:deb/debian/jinja2?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.8-1+deb9u2"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "jinja2",
+                "purl": "pkg:deb/debian/jinja2?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.10-2+deb10u2"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1396-1",
+    "modified": "2025-04-16T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1396-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-56326"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-27516"
+        }
+    ],
+    "related": [
+        "CVE-2024-56326",
+        "CVE-2025-27516"
+    ]
+}
