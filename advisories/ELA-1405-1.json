@@ -12,7 +12,7 @@
                         "introduced": "0"
                     },
                     {
-                        "fixed": "19.2.1+dfsg-2+really23.3.4.18-0+deb9u4"
+                        "fixed": "1:19.2.1+dfsg-2+really23.3.4.18-0+deb9u4"
                     }
                 ],
                 "type": "ECOSYSTEM"
