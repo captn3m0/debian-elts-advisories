@@ -49,65 +49,10 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-22114"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-22116"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-22117"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-22122"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-22123"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-36464"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-36467"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-36469"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-42325"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-42332"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-42333"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-45700"
         }
     ],
     "related": [
-        "CVE-2024-22114",
-        "CVE-2024-22116",
-        "CVE-2024-22117",
-        "CVE-2024-22122",
-        "CVE-2024-22123",
-        "CVE-2024-36464",
-        "CVE-2024-36467",
-        "CVE-2024-36469",
-        "CVE-2024-42325",
-        "CVE-2024-42332",
-        "CVE-2024-42333",
-        "CVE-2024-45700"
+        "CVE-2024-36469"
     ]
 }
