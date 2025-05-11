@@ -1,0 +1,50 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "wpa",
+                "purl": "pkg:deb/debian/wpa?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2:2.9.0-21+deb11u3~deb10u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1419-1",
+    "modified": "2025-05-11T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1419-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-23303"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-23304"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-37660"
+        }
+    ],
+    "related": [
+        "CVE-2022-23303",
+        "CVE-2022-23304",
+        "CVE-2022-37660"
+    ]
+}
