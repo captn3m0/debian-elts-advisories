@@ -2,6 +2,42 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:9",
+                "name": "gimp",
+                "purl": "pkg:deb/debian/libfcgi-perl?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.8.18-1+deb9u4"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "gimp",
+                "purl": "pkg:deb/debian/libfcgi-perl?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.10.8-2+deb10u3"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:8",
                 "name": "libfcgi-perl",
                 "purl": "pkg:deb/debian/libfcgi-perl?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
