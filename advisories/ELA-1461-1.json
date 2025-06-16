@@ -2,6 +2,42 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:9",
+                "name": "python2.7",
+                "purl": "pkg:deb/debian/icu?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.7.13-2+deb9u11"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "python2.7",
+                "purl": "pkg:deb/debian/icu?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "2.7.16-2+deb10u6"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:8",
                 "name": "icu",
                 "purl": "pkg:deb/debian/icu?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
