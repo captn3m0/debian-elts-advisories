@@ -2,6 +2,24 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:10",
+                "name": "auto-apt-proxy",
+                "purl": "pkg:deb/debian/poppler?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": {
+                "events": [
+                    {
+                        "introduced": "0"
+                    },
+                    {
+                        "fixed": "11+deb10u1"
+                    }
+                ],
+                "type": "ECOSYSTEM"
+            }
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:9",
                 "name": "poppler",
                 "purl": "pkg:deb/debian/poppler?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
