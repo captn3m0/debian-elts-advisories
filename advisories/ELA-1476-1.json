@@ -12,7 +12,7 @@
                         "introduced": "0"
                     },
                     {
-                        "fixed": "1.8.27-1+deb10u7"
+                        "fixed": "1.8.10p3-1+deb8u10"
                     }
                 ],
                 "type": "ECOSYSTEM"
@@ -48,7 +48,7 @@
                         "introduced": "0"
                     },
                     {
-                        "fixed": "1.8.10p3-1+deb8u10"
+                        "fixed": "1.8.27-1+deb10u7"
                     }
                 ],
                 "type": "ECOSYSTEM"
