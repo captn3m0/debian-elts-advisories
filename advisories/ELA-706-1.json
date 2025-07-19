@@ -6,17 +6,19 @@
                 "name": "libksba",
                 "purl": "pkg:deb/debian/libksba?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "1.3.2-1+deb8u2"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.3.2-1+deb8u2"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -24,17 +26,19 @@
                 "name": "libksba",
                 "purl": "pkg:deb/debian/libksba?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "1.3.5-2+deb9u1"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.3.5-2+deb9u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {

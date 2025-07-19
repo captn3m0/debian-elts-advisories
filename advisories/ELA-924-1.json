@@ -6,17 +6,19 @@
                 "name": "open-vm-tools",
                 "purl": "pkg:deb/debian/open-vm-tools?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2:9.4.6-1770165-8+deb8u1"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2:9.4.6-1770165-8+deb8u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -24,17 +26,19 @@
                 "name": "open-vm-tools",
                 "purl": "pkg:deb/debian/open-vm-tools?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2:10.1.5-5055683-4+deb9u4"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2:10.1.5-5055683-4+deb9u4"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {

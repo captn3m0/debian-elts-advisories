@@ -6,17 +6,19 @@
                 "name": "glib2.0",
                 "purl": "pkg:deb/debian/glib2.0?distro=wheezy&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2.33.12+really2.32.4-5+deb7u2"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2.33.12+really2.32.4-5+deb7u2"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {

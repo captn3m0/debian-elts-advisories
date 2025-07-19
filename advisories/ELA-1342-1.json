@@ -6,17 +6,19 @@
                 "name": "log4net",
                 "purl": "pkg:deb/debian/log4net?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "1.2.10+dfsg-8~deb10u1"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.2.10+dfsg-8~deb10u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {

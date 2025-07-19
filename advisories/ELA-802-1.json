@@ -6,17 +6,19 @@
                 "name": "nss",
                 "purl": "pkg:deb/debian/nss?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2:3.26-1+debu8u17"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2:3.26-1+debu8u17"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -24,17 +26,19 @@
                 "name": "nss",
                 "purl": "pkg:deb/debian/nss?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2:3.26.2-1.1+deb9u6"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2:3.26.2-1.1+deb9u6"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {

@@ -6,17 +6,19 @@
                 "name": "libdatetime-timezone-perl",
                 "purl": "pkg:deb/debian/linux-5.10?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "1:1.75-2+2022c"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1:1.75-2+2022c"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -24,17 +26,19 @@
                 "name": "libdatetime-timezone-perl",
                 "purl": "pkg:deb/debian/linux-5.10?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "1:2.09-1+2022c"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1:2.09-1+2022c"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -42,17 +46,19 @@
                 "name": "tzdata",
                 "purl": "pkg:deb/debian/linux-5.10?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2021a-0+deb8u5"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2021a-0+deb8u5"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -60,17 +66,19 @@
                 "name": "tzdata",
                 "purl": "pkg:deb/debian/linux-5.10?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2021a-0+deb9u5"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2021a-0+deb9u5"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -78,17 +86,19 @@
                 "name": "linux-5.10",
                 "purl": "pkg:deb/debian/linux-5.10?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "5.10.127-2~deb9u1"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "5.10.127-2~deb9u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {

@@ -6,17 +6,19 @@
                 "name": "libx11",
                 "purl": "pkg:deb/debian/libx11?distro=jessie&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2:1.6.2-3+deb8u7"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2:1.6.2-3+deb8u7"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         },
         {
             "package": {
@@ -24,17 +26,19 @@
                 "name": "libx11",
                 "purl": "pkg:deb/debian/libx11?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
-            "ranges": {
-                "events": [
-                    {
-                        "introduced": "0"
-                    },
-                    {
-                        "fixed": "2:1.6.4-3+deb9u6"
-                    }
-                ],
-                "type": "ECOSYSTEM"
-            }
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "2:1.6.4-3+deb9u6"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
         }
     ],
     "database_specific": {
