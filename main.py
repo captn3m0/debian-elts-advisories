@@ -2,12 +2,15 @@ import urllib.request
 import json
 import re
 import datetime
+from time import sleep
 
 TITLE_REGEX = r"\[(?P<date>\d+ \w+ \d{4})\] (?P<id>ELA-\d+-\d+) (?P<package>[\w\-\.]+) - (?P<type>[\w ]+)"
 CVE_REGEX = r"CVE-\d{4}-\d{4,7}"
 DETAILS_REGEX = r"\[(?P<codename>\w+)\] - (?P<package>[\w\-\.]+) (?P<version>(?:(?:[0-9]{1,9}):)?(?:[0-9][0-9a-z\.+~-]*)(?:(?:-[0-0a-z\.+~]+))?)"
-
+ELA_LIST_URL = "https://salsa.debian.org/freexian-team/extended-lts/security-tracker/-/raw/master/data/ELA/list"
+RFC3339_FORMATSTRING = "%Y-%m-%dT%H:%M:%SZ"
 DEBIAN_CODENAME = {
+    "bookworm": "12",
     "bullseye": "11",
     "buster": "10",
     "stretch": "9",
@@ -17,16 +20,25 @@ DEBIAN_CODENAME = {
 }
 
 
-def fetch_ela_list():
-    url = "https://salsa.debian.org/freexian-team/extended-lts/security-tracker/-/raw/master/data/ELA/list"
-    response = urllib.request.urlopen(url)
-    return response.read().decode("utf-8")
+def fetch_ela_list(retry = 5):
+    for attempt in range(retry):
+        try:
+            response = urllib.request.urlopen(ELA_LIST_URL)
+            return response.read().decode("utf-8")
+        except urllib.error.URLError as e:
+            if attempt < retry - 1:
+                print(f"Attempt {attempt + 1} failed, retrying...")
+                sleep(10)
+            else:
+                raise e
 
 
 def parse_date(s):
     # '15 Jun 2018'
     return datetime.datetime.strptime(s, "%d %b %Y")
 
+def format_as_rfc3339(timestamp):
+    return timestamp.strftime(RFC3339_FORMATSTRING)
 
 def get_osv():
     content = fetch_ela_list()
@@ -40,7 +52,7 @@ def get_osv():
             if cves and data and len(details) > 0:
                 yield {
                     "id": data["id"],
-                    "modified": parse_date(data["date"]).isoformat("T") + "Z",
+                    "modified": format_as_rfc3339(parse_date(data["date"])),
                     "related": cves,
                     "affected": [
                         {
@@ -49,7 +61,7 @@ def get_osv():
                                 "name": r["package"],
                                 "purl": f"pkg:deb/debian/{data['package']}?distro={r['codename']}&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts",
                             },
-                            "ranges": {
+                            "ranges": [{
                                 "type": "ECOSYSTEM",
                                 "events": [
                                     {
@@ -59,7 +71,7 @@ def get_osv():
                                         "fixed": r["version"],
                                     }
                                 ],
-                            },
+                            }],
                         }
                         for r in details
                     ],
