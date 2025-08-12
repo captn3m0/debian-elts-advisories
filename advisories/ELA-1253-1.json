@@ -77,26 +77,16 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-36021"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-25155"
         },
         {
             "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-31228"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-31449"
         }
     ],
     "related": [
         "CVE-2022-35977",
-        "CVE-2022-36021",
         "CVE-2023-25155",
-        "CVE-2024-31228",
-        "CVE-2024-31449"
+        "CVE-2024-31228"
     ]
 }
