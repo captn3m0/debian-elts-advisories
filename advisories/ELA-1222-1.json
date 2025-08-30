@@ -53,43 +53,7 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-20898"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-22040"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-22051"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-22056"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-38090"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-38091"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-38092"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-38093"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2021-38094"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-48434"
         },
         {
             "type": "ADVISORY",
@@ -97,46 +61,12 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-50010"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-51793"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-51794"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-51798"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-31578"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-32230"
         }
     ],
     "related": [
-        "CVE-2020-20898",
         "CVE-2020-22040",
-        "CVE-2020-22051",
-        "CVE-2020-22056",
-        "CVE-2021-38090",
-        "CVE-2021-38091",
-        "CVE-2021-38092",
-        "CVE-2021-38093",
-        "CVE-2021-38094",
-        "CVE-2022-48434",
         "CVE-2023-49502",
-        "CVE-2023-50010",
-        "CVE-2023-51793",
-        "CVE-2023-51794",
-        "CVE-2023-51798",
-        "CVE-2024-31578",
         "CVE-2024-32230"
     ]
 }

@@ -53,20 +53,10 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2016-6711"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-0393"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-5197"
         }
     ],
     "related": [
-        "CVE-2016-6711",
-        "CVE-2017-0393",
         "CVE-2024-5197"
     ]
 }

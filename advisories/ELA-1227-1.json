@@ -53,10 +53,6 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2016-9318"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2017-16932"
         },
         {
@@ -73,7 +69,6 @@
         }
     ],
     "related": [
-        "CVE-2016-9318",
         "CVE-2017-16932",
         "CVE-2023-39615",
         "CVE-2023-45322",

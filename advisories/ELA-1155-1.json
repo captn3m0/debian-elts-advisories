@@ -53,10 +53,6 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2019-1387"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-25652"
         },
         {
@@ -77,7 +73,6 @@
         }
     ],
     "related": [
-        "CVE-2019-1387",
         "CVE-2023-25652",
         "CVE-2023-25815",
         "CVE-2023-29007",

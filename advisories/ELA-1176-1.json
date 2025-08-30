@@ -73,15 +73,10 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2016-3709"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2022-2309"
         }
     ],
     "related": [
-        "CVE-2016-3709",
         "CVE-2022-2309"
     ]
 }

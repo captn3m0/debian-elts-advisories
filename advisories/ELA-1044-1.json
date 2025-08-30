@@ -53,15 +53,10 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2015-7802"
-        },
-        {
-            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-43907"
         }
     ],
     "related": [
-        "CVE-2015-7802",
         "CVE-2023-43907"
     ]
 }
