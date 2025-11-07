@@ -1,0 +1,47 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "openjdk-8",
+                "purl": "pkg:deb/debian/openjdk-8?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "8u472-ga-1~deb9u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1569-1",
+    "modified": "2025-11-07T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1569-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-53057"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-53066"
+        }
+    ],
+    "related": [
+        "CVE-2025-53057",
+        "CVE-2025-53066"
+    ]
+}
