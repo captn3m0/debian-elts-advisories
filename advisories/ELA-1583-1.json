@@ -53,695 +53,645 @@
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-47704"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-21861"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-57924"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39929"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-58240"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39931"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-23143"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39934"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-23160"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39937"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-37931"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39938"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-37968"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39942"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38322"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39943"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38347"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39944"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38491"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39945"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38502"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39946"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38552"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39949"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38614"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39951"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38670"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39953"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38676"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39955"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38677"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39957"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38679"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39964"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38680"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39967"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38681"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39968"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38683"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39969"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38684"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39970"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38685"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39971"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38687"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39972"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38691"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39973"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38693"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39977"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38694"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39978"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38695"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39980"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38696"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39982"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38697"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39985"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38698"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39986"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38699"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39987"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38700"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39988"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38701"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39993"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38702"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39994"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38706"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39995"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38707"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39996"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38708"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39998"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38711"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40001"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38712"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40006"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38713"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40008"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38714"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40010"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38715"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40011"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38721"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40013"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38723"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40018"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38724"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40019"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38725"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40020"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38727"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40021"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38728"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40022"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38729"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40026"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38732"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40027"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38735"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40029"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-38736"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40030"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39673"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40032"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39675"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40035"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39676"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40036"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39681"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40040"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39682"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40042"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39683"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40043"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39684"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40044"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39685"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40048"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39686"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40049"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39687"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40051"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39689"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40053"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39691"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40055"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39692"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40056"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39693"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40060"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39694"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40062"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39697"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40068"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39701"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40070"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39702"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40078"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39703"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40080"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39706"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40081"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39709"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40084"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39710"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40085"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39713"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40087"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39714"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40088"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39715"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40092"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39716"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40093"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39718"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40094"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39719"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40095"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39724"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40096"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39736"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40099"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39737"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40100"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39738"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40103"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39742"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40104"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39743"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40105"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39749"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40106"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39752"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40107"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39756"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40109"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39757"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40111"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39759"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40112"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39760"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40115"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39766"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40116"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39770"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40118"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39772"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40120"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39773"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40121"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39776"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40123"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39782"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40124"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39783"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40125"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39787"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40126"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39788"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40127"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39790"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40134"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39794"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40140"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39795"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40141"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39798"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40153"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39800"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40154"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39801"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40156"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39806"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40167"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39808"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40171"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39812"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40173"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39813"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40176"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39817"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40178"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39819"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40179"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39823"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40183"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39824"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40186"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39825"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40187"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39826"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40188"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39827"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40190"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39828"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40193"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39835"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40194"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39838"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40197"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39839"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40198"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39841"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40200"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39842"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40201"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39843"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40202"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39844"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40204"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39845"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40205"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39846"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39847"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39848"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39849"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39853"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39857"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39860"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39864"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39865"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-39866"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40300"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2025-40207"
         }
     ],
     "related": [
-        "CVE-2024-47704",
-        "CVE-2024-57924",
-        "CVE-2024-58240",
-        "CVE-2025-23143",
-        "CVE-2025-23160",
-        "CVE-2025-37931",
-        "CVE-2025-37968",
-        "CVE-2025-38322",
-        "CVE-2025-38347",
-        "CVE-2025-38491",
-        "CVE-2025-38502",
-        "CVE-2025-38552",
-        "CVE-2025-38614",
-        "CVE-2025-38670",
-        "CVE-2025-38676",
-        "CVE-2025-38677",
-        "CVE-2025-38679",
-        "CVE-2025-38680",
-        "CVE-2025-38681",
-        "CVE-2025-38683",
-        "CVE-2025-38684",
-        "CVE-2025-38685",
-        "CVE-2025-38687",
-        "CVE-2025-38691",
-        "CVE-2025-38693",
-        "CVE-2025-38694",
-        "CVE-2025-38695",
-        "CVE-2025-38696",
-        "CVE-2025-38697",
-        "CVE-2025-38698",
-        "CVE-2025-38699",
-        "CVE-2025-38700",
-        "CVE-2025-38701",
-        "CVE-2025-38702",
-        "CVE-2025-38706",
-        "CVE-2025-38707",
-        "CVE-2025-38708",
-        "CVE-2025-38711",
-        "CVE-2025-38712",
-        "CVE-2025-38713",
-        "CVE-2025-38714",
-        "CVE-2025-38715",
-        "CVE-2025-38721",
-        "CVE-2025-38723",
-        "CVE-2025-38724",
-        "CVE-2025-38725",
-        "CVE-2025-38727",
-        "CVE-2025-38728",
-        "CVE-2025-38729",
-        "CVE-2025-38732",
-        "CVE-2025-38735",
-        "CVE-2025-38736",
-        "CVE-2025-39673",
-        "CVE-2025-39675",
-        "CVE-2025-39676",
-        "CVE-2025-39681",
-        "CVE-2025-39682",
-        "CVE-2025-39683",
-        "CVE-2025-39684",
-        "CVE-2025-39685",
-        "CVE-2025-39686",
-        "CVE-2025-39687",
-        "CVE-2025-39689",
-        "CVE-2025-39691",
-        "CVE-2025-39692",
-        "CVE-2025-39693",
-        "CVE-2025-39694",
-        "CVE-2025-39697",
-        "CVE-2025-39701",
-        "CVE-2025-39702",
-        "CVE-2025-39703",
-        "CVE-2025-39706",
-        "CVE-2025-39709",
-        "CVE-2025-39710",
-        "CVE-2025-39713",
-        "CVE-2025-39714",
-        "CVE-2025-39715",
-        "CVE-2025-39716",
-        "CVE-2025-39718",
-        "CVE-2025-39719",
-        "CVE-2025-39724",
-        "CVE-2025-39736",
-        "CVE-2025-39737",
-        "CVE-2025-39738",
-        "CVE-2025-39742",
-        "CVE-2025-39743",
-        "CVE-2025-39749",
-        "CVE-2025-39752",
-        "CVE-2025-39756",
-        "CVE-2025-39757",
-        "CVE-2025-39759",
-        "CVE-2025-39760",
-        "CVE-2025-39766",
-        "CVE-2025-39770",
-        "CVE-2025-39772",
-        "CVE-2025-39773",
-        "CVE-2025-39776",
-        "CVE-2025-39782",
-        "CVE-2025-39783",
-        "CVE-2025-39787",
-        "CVE-2025-39788",
-        "CVE-2025-39790",
-        "CVE-2025-39794",
-        "CVE-2025-39795",
-        "CVE-2025-39798",
-        "CVE-2025-39800",
-        "CVE-2025-39801",
-        "CVE-2025-39806",
-        "CVE-2025-39808",
-        "CVE-2025-39812",
-        "CVE-2025-39813",
-        "CVE-2025-39817",
-        "CVE-2025-39819",
-        "CVE-2025-39823",
-        "CVE-2025-39824",
-        "CVE-2025-39825",
-        "CVE-2025-39826",
-        "CVE-2025-39827",
-        "CVE-2025-39828",
-        "CVE-2025-39835",
-        "CVE-2025-39838",
-        "CVE-2025-39839",
-        "CVE-2025-39841",
-        "CVE-2025-39842",
-        "CVE-2025-39843",
-        "CVE-2025-39844",
-        "CVE-2025-39845",
-        "CVE-2025-39846",
-        "CVE-2025-39847",
-        "CVE-2025-39848",
-        "CVE-2025-39849",
-        "CVE-2025-39853",
-        "CVE-2025-39857",
-        "CVE-2025-39860",
-        "CVE-2025-39864",
-        "CVE-2025-39865",
-        "CVE-2025-39866",
-        "CVE-2025-40300"
+        "CVE-2025-21861",
+        "CVE-2025-39929",
+        "CVE-2025-39931",
+        "CVE-2025-39934",
+        "CVE-2025-39937",
+        "CVE-2025-39938",
+        "CVE-2025-39942",
+        "CVE-2025-39943",
+        "CVE-2025-39944",
+        "CVE-2025-39945",
+        "CVE-2025-39946",
+        "CVE-2025-39949",
+        "CVE-2025-39951",
+        "CVE-2025-39953",
+        "CVE-2025-39955",
+        "CVE-2025-39957",
+        "CVE-2025-39964",
+        "CVE-2025-39967",
+        "CVE-2025-39968",
+        "CVE-2025-39969",
+        "CVE-2025-39970",
+        "CVE-2025-39971",
+        "CVE-2025-39972",
+        "CVE-2025-39973",
+        "CVE-2025-39977",
+        "CVE-2025-39978",
+        "CVE-2025-39980",
+        "CVE-2025-39982",
+        "CVE-2025-39985",
+        "CVE-2025-39986",
+        "CVE-2025-39987",
+        "CVE-2025-39988",
+        "CVE-2025-39993",
+        "CVE-2025-39994",
+        "CVE-2025-39995",
+        "CVE-2025-39996",
+        "CVE-2025-39998",
+        "CVE-2025-40001",
+        "CVE-2025-40006",
+        "CVE-2025-40008",
+        "CVE-2025-40010",
+        "CVE-2025-40011",
+        "CVE-2025-40013",
+        "CVE-2025-40018",
+        "CVE-2025-40019",
+        "CVE-2025-40020",
+        "CVE-2025-40021",
+        "CVE-2025-40022",
+        "CVE-2025-40026",
+        "CVE-2025-40027",
+        "CVE-2025-40029",
+        "CVE-2025-40030",
+        "CVE-2025-40032",
+        "CVE-2025-40035",
+        "CVE-2025-40036",
+        "CVE-2025-40040",
+        "CVE-2025-40042",
+        "CVE-2025-40043",
+        "CVE-2025-40044",
+        "CVE-2025-40048",
+        "CVE-2025-40049",
+        "CVE-2025-40051",
+        "CVE-2025-40053",
+        "CVE-2025-40055",
+        "CVE-2025-40056",
+        "CVE-2025-40060",
+        "CVE-2025-40062",
+        "CVE-2025-40068",
+        "CVE-2025-40070",
+        "CVE-2025-40078",
+        "CVE-2025-40080",
+        "CVE-2025-40081",
+        "CVE-2025-40084",
+        "CVE-2025-40085",
+        "CVE-2025-40087",
+        "CVE-2025-40088",
+        "CVE-2025-40092",
+        "CVE-2025-40093",
+        "CVE-2025-40094",
+        "CVE-2025-40095",
+        "CVE-2025-40096",
+        "CVE-2025-40099",
+        "CVE-2025-40100",
+        "CVE-2025-40103",
+        "CVE-2025-40104",
+        "CVE-2025-40105",
+        "CVE-2025-40106",
+        "CVE-2025-40107",
+        "CVE-2025-40109",
+        "CVE-2025-40111",
+        "CVE-2025-40112",
+        "CVE-2025-40115",
+        "CVE-2025-40116",
+        "CVE-2025-40118",
+        "CVE-2025-40120",
+        "CVE-2025-40121",
+        "CVE-2025-40123",
+        "CVE-2025-40124",
+        "CVE-2025-40125",
+        "CVE-2025-40126",
+        "CVE-2025-40127",
+        "CVE-2025-40134",
+        "CVE-2025-40140",
+        "CVE-2025-40141",
+        "CVE-2025-40153",
+        "CVE-2025-40154",
+        "CVE-2025-40156",
+        "CVE-2025-40167",
+        "CVE-2025-40171",
+        "CVE-2025-40173",
+        "CVE-2025-40176",
+        "CVE-2025-40178",
+        "CVE-2025-40179",
+        "CVE-2025-40183",
+        "CVE-2025-40186",
+        "CVE-2025-40187",
+        "CVE-2025-40188",
+        "CVE-2025-40190",
+        "CVE-2025-40193",
+        "CVE-2025-40194",
+        "CVE-2025-40197",
+        "CVE-2025-40198",
+        "CVE-2025-40200",
+        "CVE-2025-40201",
+        "CVE-2025-40202",
+        "CVE-2025-40204",
+        "CVE-2025-40205",
+        "CVE-2025-40207"
     ]
 }
