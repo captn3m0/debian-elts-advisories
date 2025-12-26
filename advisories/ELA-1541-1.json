@@ -3,8 +3,8 @@
         {
             "package": {
                 "ecosystem": "Debian:10",
-                "name": "qemu",
-                "purl": "pkg:deb/debian/qemu?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+                "name": "php-horde-css-parser",
+                "purl": "pkg:deb/debian/php-horde-css-parser?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
             "ranges": [
                 {
@@ -13,7 +13,7 @@
                             "introduced": "0"
                         },
                         {
-                            "fixed": "1:3.1+dfsg-8+deb10u13"
+                            "fixed": "1.0.11-3+deb10u1"
                         }
                     ],
                     "type": "ECOSYSTEM"
@@ -24,24 +24,19 @@
     "database_specific": {
         "type": "security update"
     },
-    "id": "ELA-1540-1",
+    "id": "ELA-1541-1",
     "modified": "2025-10-15T00:00:00Z",
     "references": [
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1540-1"
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1541-1"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2023-3019"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2024-3447"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2020-13756"
         }
     ],
     "related": [
-        "CVE-2023-3019",
-        "CVE-2024-3447"
+        "CVE-2020-13756"
     ]
 }
