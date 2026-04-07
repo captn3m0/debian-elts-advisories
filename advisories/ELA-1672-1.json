@@ -54,9 +54,14 @@
         {
             "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-31958"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-35536"
         }
     ],
     "related": [
-        "CVE-2026-31958"
+        "CVE-2026-31958",
+        "CVE-2026-35536"
     ]
 }
