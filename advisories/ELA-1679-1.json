@@ -2,6 +2,26 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:9",
+                "name": "clamav",
+                "purl": "pkg:deb/debian/libyaml-syck-perl?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.4.3+dfsg-1~deb9u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:10",
                 "name": "libyaml-syck-perl",
                 "purl": "pkg:deb/debian/libyaml-syck-perl?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
@@ -14,6 +34,26 @@
                         },
                         {
                             "fixed": "1.31-1+deb10u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
+                "name": "libyaml-syck-perl",
+                "purl": "pkg:deb/debian/libyaml-syck-perl?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.29-1+deb9u1"
                         }
                     ],
                     "type": "ECOSYSTEM"
