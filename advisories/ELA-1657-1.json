@@ -45,6 +45,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-25970"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-25576"
         },
         {
@@ -128,6 +132,7 @@
         "CVE-2026-24481",
         "CVE-2026-24484",
         "CVE-2026-24485",
+        "CVE-2026-25970",
         "CVE-2026-25576",
         "CVE-2026-25638",
         "CVE-2026-25795",
