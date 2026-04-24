@@ -3,8 +3,8 @@
         {
             "package": {
                 "ecosystem": "Debian:9",
-                "name": "inetutils",
-                "purl": "pkg:deb/debian/inetutils?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+                "name": "packagekit",
+                "purl": "pkg:deb/debian/packagekit?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
             "ranges": [
                 {
@@ -13,7 +13,7 @@
                             "introduced": "0"
                         },
                         {
-                            "fixed": "2:1.9.4-2+deb9u5"
+                            "fixed": "1.1.5-2+deb9u3"
                         }
                     ],
                     "type": "ECOSYSTEM"
@@ -23,8 +23,8 @@
         {
             "package": {
                 "ecosystem": "Debian:10",
-                "name": "inetutils",
-                "purl": "pkg:deb/debian/inetutils?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+                "name": "packagekit",
+                "purl": "pkg:deb/debian/packagekit?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
             "ranges": [
                 {
@@ -33,7 +33,7 @@
                             "introduced": "0"
                         },
                         {
-                            "fixed": "2:1.9.4-7+deb10u5"
+                            "fixed": "1.1.12-5+deb10u1"
                         }
                     ],
                     "type": "ECOSYSTEM"
@@ -44,34 +44,19 @@
     "database_specific": {
         "type": "security update"
     },
-    "id": "ELA-1692-1",
+    "id": "ELA-1693-1",
     "modified": "2026-04-22T00:00:00Z",
     "references": [
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1692-1"
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1693-1"
         },
         {
             "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-24061"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-28372"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-32746"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-32772"
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-41651"
         }
     ],
     "related": [
-        "CVE-2026-24061",
-        "CVE-2026-28372",
-        "CVE-2026-32746",
-        "CVE-2026-32772"
+        "CVE-2026-41651"
     ]
 }
