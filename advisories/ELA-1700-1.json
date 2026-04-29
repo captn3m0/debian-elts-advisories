@@ -1,0 +1,57 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "systemd",
+                "purl": "pkg:deb/debian/systemd?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "241-7~deb10u12"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1700-1",
+    "modified": "2026-04-29T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1700-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-4105"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-29111"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-40225"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-40226"
+        }
+    ],
+    "related": [
+        "CVE-2026-4105",
+        "CVE-2026-29111",
+        "CVE-2026-40225",
+        "CVE-2026-40226"
+    ]
+}
