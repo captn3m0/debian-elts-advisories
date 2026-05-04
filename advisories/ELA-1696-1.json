@@ -93,6 +93,14 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-28687"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-28688"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-28689"
         },
         {
@@ -150,6 +158,8 @@
         "CVE-2026-26983",
         "CVE-2026-28494",
         "CVE-2026-28686",
+        "CVE-2026-28687",
+        "CVE-2026-28688",
         "CVE-2026-28689",
         "CVE-2026-28690",
         "CVE-2026-28691",
