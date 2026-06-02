@@ -33,7 +33,7 @@
                             "introduced": "0"
                         },
                         {
-                            "fixed": "5.10.257+1~deb10u1"
+                            "fixed": "5.10.257-1~deb10u1"
                         }
                     ],
                     "type": "ECOSYSTEM"
