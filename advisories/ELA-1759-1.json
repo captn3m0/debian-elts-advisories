@@ -2,6 +2,46 @@
     "affected": [
         {
             "package": {
+                "ecosystem": "Debian:9",
+                "name": "yelp",
+                "purl": "pkg:deb/debian/ansible?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "3.22.0-1+deb9u2"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "yelp",
+                "purl": "pkg:deb/debian/ansible?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "3.31.90-1+deb10u2"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        },
+        {
+            "package": {
                 "ecosystem": "Debian:10",
                 "name": "ansible",
                 "purl": "pkg:deb/debian/ansible?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
