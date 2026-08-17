@@ -3,6 +3,26 @@
         {
             "package": {
                 "ecosystem": "Debian:9",
+                "name": "ca-certificates",
+                "purl": "pkg:deb/debian/python-django?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "20250419~deb12u1~deb11u1~deb10u1~deb9u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:9",
                 "name": "ca-certificates-java",
                 "purl": "pkg:deb/debian/python-django?distro=stretch&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
             },
