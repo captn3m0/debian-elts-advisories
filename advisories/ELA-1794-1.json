@@ -86,10 +86,6 @@
         {
             "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-48112"
-        },
-        {
-            "type": "ADVISORY",
-            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-58052"
         }
     ],
     "related": [
@@ -101,7 +97,6 @@
         "CVE-2026-48103",
         "CVE-2026-48104",
         "CVE-2026-48111",
-        "CVE-2026-48112",
-        "CVE-2026-58052"
+        "CVE-2026-48112"
     ]
 }
