@@ -1,0 +1,62 @@
+{
+    "affected": [
+        {
+            "package": {
+                "ecosystem": "Debian:10",
+                "name": "brotli",
+                "purl": "pkg:deb/debian/brotli?distro=buster&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.0.7-2+deb10u2"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        },
+        {
+            "package": {
+                "ecosystem": "Debian:11",
+                "name": "brotli",
+                "purl": "pkg:deb/debian/brotli?distro=bullseye&repository_url=http%3A%2F%2Fdeb.freexian.com%2Fextended-lts"
+            },
+            "ranges": [
+                {
+                    "events": [
+                        {
+                            "introduced": "0"
+                        },
+                        {
+                            "fixed": "1.0.9-2+deb11u1"
+                        }
+                    ],
+                    "type": "ECOSYSTEM"
+                }
+            ]
+        }
+    ],
+    "database_specific": {
+        "type": "security update"
+    },
+    "id": "ELA-1861-1",
+    "modified": "2026-10-23T00:00:00Z",
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/ELA-1861-1"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-111497"
+        }
+    ],
+    "related": [
+        "CVE-2026-111497"
+    ]
+}
