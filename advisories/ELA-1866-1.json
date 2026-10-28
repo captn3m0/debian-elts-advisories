@@ -13,7 +13,7 @@
                             "introduced": "0"
                         },
                         {
-                            "fixed": "1.19.2-1+deb9u24"
+                            "fixed": "2:1.19.2-1+deb9u24"
                         }
                     ],
                     "type": "ECOSYSTEM"
