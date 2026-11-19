@@ -102,6 +102,10 @@
         {
             "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-109163"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-119618"
         }
     ],
     "related": [
@@ -122,6 +126,7 @@
         "CVE-2026-73637",
         "CVE-2026-79768",
         "CVE-2026-93546",
-        "CVE-2026-109163"
+        "CVE-2026-109163",
+        "CVE-2026-119618"
     ]
 }
