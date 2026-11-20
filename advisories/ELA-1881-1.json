@@ -209,6 +209,10 @@
         },
         {
             "type": "ADVISORY",
+            "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-101516"
+        },
+        {
+            "type": "ADVISORY",
             "url": "https://deb.freexian.com/extended-lts/tracker/CVE-2026-114820"
         }
     ],
@@ -252,6 +256,7 @@
         "CVE-2026-91463",
         "CVE-2026-91464",
         "CVE-2026-91487",
+        "CVE-2026-101516",
         "CVE-2026-114820"
     ]
 }
